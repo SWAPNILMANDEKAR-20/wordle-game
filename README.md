@@ -2,6 +2,15 @@
 # Wordle Light Edition
 
 
+
+
+https://github.com/user-attachments/assets/5727e409-0ce0-4fa6-bd42-9c4baa79ab12
+
+
+
+
+
+
 Overview
 Wordle Light Edition is a simplified, lightweight clone of the popular Wordle game, built using HTML, CSS, and JavaScript.  
 It runs completely in the browser with no backend dependencies.
