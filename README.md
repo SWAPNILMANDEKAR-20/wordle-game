@@ -1,0 +1,24 @@
+
+# Wordle Light Edition
+
+
+Overview
+Wordle Light Edition is a simplified, lightweight clone of the popular Wordle game, built using HTML, CSS, and JavaScript.  
+It runs completely in the browser with no backend dependencies.
+
+Features
+- 6 attempts to guess the hidden word
+- Color-coded feedback:
+  - 🟩 Green: Correct letter in correct place
+  - 🟨 Yellow: Correct letter in wrong place
+  - ⬛ Gray: Letter not in word
+- On-screen clickable keyboard
+- Win popup with confetti
+- Mobile-friendly design
+
+Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Libraries:** None (vanilla JS)
+- **Extra:** Canvas-based confetti animation
+
+
