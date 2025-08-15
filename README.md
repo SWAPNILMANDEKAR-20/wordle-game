@@ -30,4 +30,10 @@ Tech Stack
 - **Libraries:** None (vanilla JS)
 - **Extra:** Canvas-based confetti animation
 
+Technologies Used:
 
+C Language – Core logic and implementation of the game.
+
+Terminal/Console Interface – For a text-based interactive experience.
+
+ANSI Escape Codes – To add color-coded feedback for letters.
